@@ -1,0 +1,28 @@
+{
+    "name": "measure-performance",
+    "version": "v1.0.1",
+    "homepage": "https://github.com/ksankumar/measure-performance",
+    "description": "Measuring web app runtime performance, only in Chrome browser",
+    "main": "lib/performance.js",
+    "author": {
+        "name": "Santhosh Kumar Krishnan",
+        "email": "ksankumar@gmail.com",
+        "url": "www.linkedin.com/in/ksankumar"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ksankumar/measure-performance.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ksankumar/measure-performance/issues"
+    },
+    "keywords": [
+        "library",
+        "framework",
+        "utility",
+        "common",
+        "performance",
+        "chrome"
+    ],
+    "license": "MIT"
+}

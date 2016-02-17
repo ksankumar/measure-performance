@@ -1,0 +1,9 @@
+{
+    "name": "measure-performance",
+    "version": "v1.0.1",
+    "description": "Measuring web app runtime performance, only in Chrome browser",
+    "main": "lib/performance.js",
+    "ignore": [
+        "**/.*"
+    ]
+}
