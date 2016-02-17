@@ -1,5 +1,5 @@
 # Performance
-Measuring web app runtime performance, only in Chrome browser
+Measuring web app runtime performance, only for Chrome browser
 # How is working
 Let’s summarize the metrics that you must track, in order to measure the runtime performance of a web application
 
