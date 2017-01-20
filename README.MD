@@ -41,7 +41,7 @@ performance.init(delay); //5000
 ```
     * delay - measure the performance with specific time delay, default 2 sec (1000 = 1sec)
 # Note :warning:
-  Add performance.js within end of the ``` <body></body> ```
+  Add performance.js in end of the ``` <body></body> ```
 ## About
 End of course ksankumar is open source with a [public repository][ksankumar]
  on GitHub.
